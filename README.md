@@ -4,7 +4,7 @@ In Mac OSx Cataline, Apple switched the default shell to use **zsh** instead of 
 
 As a result, the prompt must now be edited in the **zsh** profile when using default settings. While it's possible to still use **bash** in Terminal, it hasn't been updated in many years.
 
-The best place to modify your prompt is in the `.zshrc` file. You can edit this with nano using the following command: `nano ~/.zshrc` 
+The best place to modify your prompt is in the `.zshrc` file. You can edit this with **nano** using the following command: `nano ~/.zshrc`. If there is no `PROMPT` line, you can add one at the beginning of the file. 
 
 Using different prompt expansions, you can fully customize Terminal. The default prompt is `PROMPT="%n@%m %1~ %# "`
 
