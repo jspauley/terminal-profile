@@ -1,6 +1,6 @@
 ## Updating The Terminal Prompt
 
-In Mac OSx Cataline, Apple switched the default shell to use **zsh** instead of **bash**.
+In macOS Catalina, Apple switched the default shell to use **zsh** instead of **bash**.
 
 As a result, the prompt must now be edited in the **zsh** profile when using default settings. While it's possible to still use **bash** in Terminal, it hasn't been updated in many years.
 
